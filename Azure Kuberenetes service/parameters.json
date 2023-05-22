@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "registries_aks305web_name": {
+            "value": null
+        },
+        "managedClusters_aks305_name": {
+            "value": null
+        },
+        "actionGroups_RecommendedAlertRules_AG_1_name": {
+            "value": null
+        },
+        "metricAlerts_CPU_Usage_Percentage___aks305_name": {
+            "value": null
+        },
+        "metricAlerts_Memory_Working_Set_Percentage___aks305_name": {
+            "value": null
+        },
+        "publicIPAddresses_15a5d63f_4376_40a9_9dbc_1c6bf57177f2_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_aks305_agentpool_externalid": {
+            "value": null
+        }
+    }
+}
